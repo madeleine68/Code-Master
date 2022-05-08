@@ -1,11 +1,9 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'LeetCode problems solutions',
+    description: `Follow this series of YouTube videos to learn how to solve LeetCode problems. Videos that are well crafted will help you comprehend and remember every concept behind any problem that will stick to your mind for the rest of your life. `,
+    imgSrc: '/static/images/youtube.png',
+    href: 'https://www.youtube.com/channel/UCSnY-k7-DTIGZVVgynS1shw',
   },
   {
     title: 'The Time Machine',
