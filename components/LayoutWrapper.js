@@ -1,11 +1,16 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-import Logo from '@/data/logo.svg'
+// import Logo from '@/data/logo.svg'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
 import Footer from './Footer'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
+import Image from 'next/image'
+
+const Logo = () => {
+  return <Image src="/static/images/logo.png" alt="logo" width="200px" height="200px" />
+}
 
 const LayoutWrapper = ({ children }) => {
   return (
