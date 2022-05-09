@@ -1,6 +1,6 @@
 ---
 name: Code Master
-avatar: /static/images/avatar.jpeg
+avatar: /static/images/avatar.png
 occupation: Web development and Programming
 company:
 email: m.monica6889@gmail.com
